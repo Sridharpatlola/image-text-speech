@@ -42,6 +42,7 @@ You can repeat the process with different images as needed.
 
 
 Limitations
+
 The accuracy of text recognition depends on the clarity and quality of the input image.
 The performance of OCR may vary based on the complexity and language of the text in the image.
 The application may not work well with handwritten or highly stylized fonts.
